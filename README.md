@@ -1,5 +1,5 @@
 # 💫 *Acerca de Mi*: Juan Carlos Suarez        
-#### **Actualmente** Trabajando en *Redsys*   [redsys.es](https://redsys.es)       *Viviendo en Madrid* :flag_spain: 🇪🇸
+#### **Actualmente** Trabajando en *Redsys*   [redsys.es](https://redsys.es)       *Viviendo en Madrid* 
 ---
 Soporte en TI con más de 20 años de experiencia en Servidores Windows y Unix/LinuxUnix SCO, Debian, Fedora, Centos, RedHat, ZOs <br>Windows Server 2003 hasta Windows 2016 Server.<br><br>Ingeniero de Soporte Técnico y HelpDesk, entusiasta de las nuevas tecnologías, <br>con capacidad de Líder, disposición para el Trabajo en Equipo y orientado a la solución <br>de problemas. Centrado, autodidacta, fácilmente adaptable y conocimiento inglés técnico.<br>
 
