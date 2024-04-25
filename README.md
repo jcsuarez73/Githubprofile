@@ -2,6 +2,7 @@
 ### **Actualmente** Trabajando en *Redsys* 
 ---
 [redsys.es](https://redsys.es)
+---
 Soporte en TI con más de 20 años de experiencia en Servidores Windows y Unix/Linux. <br>Conocimientos en Unix SCO, Debian, Fedora, Centos y Red Hat, <br>Windows Server 2003 hasta Windows 2016 Server.<br><br>Ingeniero de Soporte Técnico y HelpDesk, entusiasta de las nuevas tecnologías, <br>con capacidad de Líder, disposición para el Trabajo en Equipo y orientado a la solución <br>de problemas. Centrado, autodidacta, fácilmente adaptable y conocimiento inglés técnico.<br><br>Dispuesto  a aprender cosas nuevas y superar nuevos retos - Situación Laboral: En busqueda de trabajo.
 
 
