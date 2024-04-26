@@ -7,9 +7,9 @@
 ```bash
 .
 ├── Tecnología
-│   └── CPD                 # Responasanbles
+│   └── CPD                 # SysAdmin y Operador de CPD
 ├── Sistemas Operativos
-│   └── Linux               # WAS - WEB - Liberty Profile - WebSphere
+│   └── Linux               # WAS - WEB - Liberty Profile - WebSphere - JBOSS -  Systemd - Gestor de paquetes, FileSystem, manejo de comandos vía Terminal y consolas
 │   │   │── RedHat 
 │   │   │── CentOS
 │   │   └── Debian - AIX 
