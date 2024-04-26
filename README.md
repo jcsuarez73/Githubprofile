@@ -4,7 +4,7 @@
      
 Soporte en TI con más de 20 años de experiencia en Servidores Windows y Unix/LinuxUnix SCO, Debian, Fedora, Centos, RedHat, ZOs <br>Windows Server 2003 hasta Windows 2016 Server.<br><br>Ingeniero de Soporte Técnico y HelpDesk, entusiasta de las nuevas tecnologías, <br>con capacidad de Líder, disposición para el Trabajo en Equipo y orientado a la solución <br>de problemas. Centrado, autodidacta, fácilmente adaptable y conocimiento inglés técnico.<br>
 
-├── **Tecnología
+├── Tecnología <br/>
 ├── CPD
 │   └── Herramientas de Monitoreo   # Dynatrace - Tivoli - WhatsUP Gold - Elastic Search - Kibana - Prisma -Stratus - Service -Now
 │   │                                                                                                  │── # Incidencias con las Entidades
