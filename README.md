@@ -5,14 +5,11 @@
 ## Experiencia
 
 ```bash
-.
 ├── Tecnología
 │   └── CPD                 # SysAdmin y Operador de CPD
 ├── Sistemas Operativos
 │   └── Linux               # WAS - WEB - Liberty Profile - WebSphere - JBOSS -  Systemd - Gestor de paquetes, FileSystem, manejo de comandos vía Terminal y consolas
-│   │   │── RedHat 
-│   │   │── CentOS
-│   │   └── Debian - AIX 
+│   │   │── RedHat - CentOS, Debian - AIX
 │   ├── Windows - ZOS - UNIX 
 │   │   └──  Wnindows Server 2019 # AD, DC, LDAP
 ├── Herramientas de Monitoreo 
