@@ -3,6 +3,24 @@
 ### 📹 Últimos trabajos [redsys.es](https://redsys.es) *Dic 2022 - Actualmente###
      
 Soporte en TI con más de 20 años de experiencia en Servidores Windows y Unix/LinuxUnix SCO, Debian, Fedora, Centos, RedHat, ZOs <br>Windows Server 2003 hasta Windows 2016 Server.<br><br>Ingeniero de Soporte Técnico y HelpDesk, entusiasta de las nuevas tecnologías, <br>con capacidad de Líder, disposición para el Trabajo en Equipo y orientado a la solución <br>de problemas. Centrado, autodidacta, fácilmente adaptable y conocimiento inglés técnico.<br>
+## Structure
+
+```bash
+.
+├── data
+│   └── config              # SEO related tags
+├── src
+│   └── assets              # Assets
+│   │   │── icons             # icons
+│   │   │── illustrations     # illustrations from (undraw.co)
+│   │   └── thumbnail         # cover of your website when it's shared to social media
+│   ├── components          # Components
+│   │   │── common            # Common components
+│   │   │── landing           # Components used on the landing page
+│   │   └── theme             # Header & Footer
+│   └── pages               # Pages
+└── static                  # favicon & Netlify redirects
+```
 ---
 ## 🌐 Socials:      **Amante de la** 📷
 [![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=Twitter&logoColor=white)](https://twitter.com/jcsuarez73) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jcfotografiaes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jcsuarez73) 
