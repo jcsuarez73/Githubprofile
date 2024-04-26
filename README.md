@@ -5,17 +5,17 @@
 Soporte en TI con más de 20 años de experiencia en Servidores Windows y Unix/LinuxUnix SCO, Debian, Fedora, Centos, RedHat, ZOs <br>Windows Server 2003 hasta Windows 2016 Server.<br><br>Ingeniero de Soporte Técnico y HelpDesk, entusiasta de las nuevas tecnologías, <br>con capacidad de Líder, disposición para el Trabajo en Equipo y orientado a la solución <br>de problemas. Centrado, autodidacta, fácilmente adaptable y conocimiento inglés técnico.<br>
 
 ├── Tecnología <br/>
-├── CPD
-│   └── Herramientas de Monitoreo   # Dynatrace - Tivoli - WhatsUP Gold - Elastic Search - Kibana - Prisma -Stratus - Service -Now
-│   │                                                                                                  │── # Incidencias con las Entidades
-│   ├── Sistemas Operactivos
-│   │   │── Linux             # RedHat - Debian - CentOS - AIX
-│   │   │── Windows           # Windows Server 2019 - Office 365
-│   │   └── Otros             # ZOs - Unix 
-│   └── Herramientas de Gestión   # OpenShift - Ansible - VMWare - Aginity - Toad - Jira - Control-M
-│   │
-│   ├── Manejo de Correo y gestión de incidencias con las entidades Bancarias de España, y Marcas Internacioneles: Visa,Master Card, Dinners, Amex, Discover
-└── Otras herramientas de TI
+├── CPD<br/>
+│   └── Herramientas de Monitoreo   # Dynatrace - Tivoli - WhatsUP Gold - Elastic Search - Kibana - Prisma -Stratus - Service -Now <br/>
+│   │                                                                                                  │── # Incidencias con las Entidades<br/>
+│   ├── Sistemas Operactivos<br/>
+│   │   │── Linux             # RedHat - Debian - CentOS - AIX<br/>
+│   │   │── Windows           # Windows Server 2019 - Office 365<br/>
+│   │   └── Otros             # ZOs - Unix <br/>
+│   └── Herramientas de Gestión   # OpenShift - Ansible - VMWare - Aginity - Toad - Jira - Control-M<br/>
+│   │<br/>
+│   ├── Manejo de Correo y gestión de incidencias con las entidades Bancarias de España, y Marcas Internacioneles: Visa,Master Card, Dinners, Amex, Discover<br/>
+└── Otras herramientas de TI<br/>
 
 ## 🌐 Socials:      **Amante de la** 📷
 [![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=Twitter&logoColor=white)](https://twitter.com/jcsuarez73) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jcfotografiaes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jcsuarez73) 
