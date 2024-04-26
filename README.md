@@ -2,7 +2,7 @@
 
 ### 📹 Últimos trabajos [redsys.es](https://redsys.es) *Dic 2022 - Actualmente
      
-.
+---
 ├── Tecnología
 ├── CPD
 │   └── Herramientas de Monitoreo   # Dynatrace - Tivoli - WhatsUP Gold - Elastic Search - Kibana - Prisma -Stratus - Service -Now
