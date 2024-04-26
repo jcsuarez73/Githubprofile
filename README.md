@@ -1,6 +1,6 @@
 # 💫 *Acerca de Mi*: Juan Carlos Suarez   
 
-### 📹 Últimos trabajos [redsys.es](https://redsys.es) *Dic 2022 - Actualmente
+### 📹 Últimos trabajos [redsys.es](https://redsys.es) *Dic 2022 - Actualmente###
      
 ---
 ├── Tecnología
