@@ -4,7 +4,7 @@
 # 💫 *Acerca de Mi*: Juan Carlos Suarez   
 
 ### Últimos trabajos [redsys.es](https://redsys.es) Dic 2022 - Actualmente
-<meta name="theme-color" content="#3e2327">    
+
 ## Experiencia
 
 ```bash
