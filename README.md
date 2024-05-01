@@ -1,9 +1,10 @@
-<meta name="theme-color" content="#1e2327">
+<meta name="theme-color" content="#3c790a">
 <meta name="color-scheme" content="light dark" />
+
 # 💫 *Acerca de Mi*: Juan Carlos Suarez   
 
 ### Últimos trabajos [redsys.es](https://redsys.es) Dic 2022 - Actualmente
-    
+<meta name="theme-color" content="#3e2327">    
 ## Experiencia
 
 ```bash
