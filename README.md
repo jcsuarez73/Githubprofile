@@ -1,3 +1,5 @@
+<meta name="theme-color" content="#1e2327">
+<meta name="color-scheme" content="light dark" />
 # 💫 *Acerca de Mi*: Juan Carlos Suarez   
 
 ### Últimos trabajos [redsys.es](https://redsys.es) Dic 2022 - Actualmente
