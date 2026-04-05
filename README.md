@@ -3,19 +3,18 @@
 ### 👔 Últimos trabajos
 - **[Redsys](https://redsys.es)** — Dic 2022 hasta Actualmente
 
-Sysadmin y especialista en **Windows, Linux/Unix, Z/OS y herramientas de monitorización**. Apasionado por automatización, seguridad informática y optimización de procesos empresariales.
+## 🚀 Perfil resumido
+
+**Sysadmin & IT Security Enthusiast | Active Directory, GPO, Windows Server, Virtualización (Proxmox) y Automatización con PowerShell | Seguridad y Auditoría de Entornos Empresariales**
 
 ## Experiencia +10 años
-
-# 💻 Tecnología y Experiencia
 
 - 🏢 CPD — SysAdmin y Operador de CPD
 
 ## 🖧 Sistemas Operativos
 - 🐧 Linux — WAS, WEB, Liberty Profile, WebSphere, JBOSS, Systemd, Terminal y FileSystem  
   - Distribuciones: RedHat, CentOS, Debian, AIX
-- 🪟 Windows / 🖥 Z/OS / UNIX  
-  - Windows Server 2019 — AD, DC, LDAP
+- 🪟 Windows / 🖥 Z/OS / UNIX / Windows Server 2019 — AD, DC, LDAP
 
 ## 📊 Herramientas de Monitoreo
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-0D7ECF?style=for-the-badge&logo=dynatrace&logoColor=white)
@@ -61,13 +60,6 @@ Gestión de correos y llamadas a bancos y marcas como MasterCard, VISA, Amex, Di
 - Buenas prácticas IT: mínimo privilegio, segmentación y control de accesos
 
 ---
-
-## 🚀 Perfil resumido
-
-**Sysadmin & IT Security Enthusiast | Active Directory, GPO, Windows Server, Virtualización (Proxmox) y Automatización con PowerShell | Seguridad y Auditoría de Entornos Empresariales**
-
----
-
 
 ## 🌐 Socials:      **Amante de la** 📷
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcphotochile/) [![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=Twitter&logoColor=white)](https://twitter.com/jcsuarez73) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jcfotografiaes)
