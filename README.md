@@ -9,7 +9,6 @@
 
 # 💻 Tecnología y Experiencia
 
-## 🖥 Tecnología
 - 🏢 CPD — SysAdmin y Operador de CPD
 
 ## 🖧 Sistemas Operativos
