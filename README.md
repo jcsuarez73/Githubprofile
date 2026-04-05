@@ -7,33 +7,38 @@
 
 ## Experiencia +10 años
 
-```shell
-├── 🖥 Tecnología
-│   └── 🏢 CPD                 # SysAdmin y Operador de CPD
-├── 🖧 Sistemas Operativos
-│   └── 🐧 Linux               # WAS - WEB - Liberty Profile - WebSphere - JBOSS - Systemd - Gestor de paquetes, FileSystem, comandos Terminal
-│       ├── RedHat - CentOS - Debian - AIX
-│   ├── 🪟 Windows - 🖥 Z/OS - 🖥 UNIX
-│       └── Windows Server 2019 # AD, DC, LDAP
-├── 📊 Herramientas de Monitoreo 
-│   └── ![Dynatrace](https://img.shields.io/badge/Dynatrace-0D7ECF?style=for-the-badge&logo=dynatrace&logoColor=white) 
-│       ![Tivoli](https://img.shields.io/badge/Tivoli-0066CC?style=for-the-badge) 
-│       ![WhatsUp Gold](https://img.shields.io/badge/WhatsUp_Gold-FFCC00?style=for-the-badge)
-│       ![Elastic Search](https://img.shields.io/badge/Elastic%20Search-005571?style=for-the-badge&logo=elastic&logoColor=white) 
-│       ![Kibana](https://img.shields.io/badge/Kibana-F47711?style=for-the-badge&logo=kibana&logoColor=white) 
-│       ![Prisma](https://img.shields.io/badge/Prisma-0C4B99?style=for-the-badge&logo=prisma&logoColor=white)
-│       ![Stratus](https://img.shields.io/badge/Stratus-FF6600?style=for-the-badge) 
-│       ![ServiceNow](https://img.shields.io/badge/ServiceNow-FF5500?style=for-the-badge&logo=servicenow&logoColor=white)
-├── ⚙️ Herramientas de Gestión (DEVOPS)
-│   └── ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) 
-│       ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=openshift&logoColor=white)
-│       ![VMWare](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white) 
-│       ![Aginity](https://img.shields.io/badge/Aginity-0078D7?style=for-the-badge)
-│       ![Toad](https://img.shields.io/badge/Toad-FF6600?style=for-the-badge)
-│       ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-│       ![Control-M](https://img.shields.io/badge/Control--M-0078D7?style=for-the-badge)
-└── 📞 Gestión de Correos y llamadas a entidades bancarias de España y marcas como MasterCard, VISA, Amex, Diners en Europa y América
-```
+# 💻 Tecnología y Experiencia
+
+## 🖥 Tecnología
+- 🏢 CPD — SysAdmin y Operador de CPD
+
+## 🖧 Sistemas Operativos
+- 🐧 Linux — WAS, WEB, Liberty Profile, WebSphere, JBOSS, Systemd, Terminal y FileSystem  
+  - Distribuciones: RedHat, CentOS, Debian, AIX
+- 🪟 Windows / 🖥 Z/OS / UNIX  
+  - Windows Server 2019 — AD, DC, LDAP
+
+## 📊 Herramientas de Monitoreo
+![Dynatrace](https://img.shields.io/badge/Dynatrace-0D7ECF?style=for-the-badge&logo=dynatrace&logoColor=white)
+![Tivoli](https://img.shields.io/badge/Tivoli-0066CC?style=for-the-badge)
+![WhatsUp Gold](https://img.shields.io/badge/WhatsUp_Gold-FFCC00?style=for-the-badge)
+![Elastic Search](https://img.shields.io/badge/Elastic%20Search-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-F47711?style=for-the-badge&logo=kibana&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-0C4B99?style=for-the-badge&logo=prisma&logoColor=white)
+![Stratus](https://img.shields.io/badge/Stratus-FF6600?style=for-the-badge)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-FF5500?style=for-the-badge&logo=servicenow&logoColor=white)
+
+## ⚙️ Herramientas de Gestión (DEVOPS)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=openshift&logoColor=white)
+![VMWare](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Aginity](https://img.shields.io/badge/Aginity-0078D7?style=for-the-badge)
+![Toad](https://img.shields.io/badge/Toad-FF6600?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Control-M](https://img.shields.io/badge/Control--M-0078D7?style=for-the-badge)
+
+## 📞 Gestión de Correos y llamadas
+Gestión de correos y llamadas a bancos y marcas como MasterCard, VISA, Amex, Diners en Europa y América
 
 ## 🛠️ Skills Destacadas
 
