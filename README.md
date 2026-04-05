@@ -1,9 +1,12 @@
-<meta name="theme-color" content="#3c790a">
-<meta name="color-scheme" content="light dark" />
+# 💻 Acerca de mí: **Juan Carlos Suarez**
 
-#  💻 *Acerca de Mi*: Juan Carlos Suarez   
+### 👔 Últimos trabajos
+- **[Redsys](https://redsys.es)** — Dic 2022 hasta Actualmente
 
-### Últimos trabajos [redsys.es](https://redsys.es) Dic 2022 - Actualmente
+---
+
+### ✨ Sobre mí
+Sysadmin y especialista en **Windows, Linux/Unix, Z/OS y herramientas de monitorización**. Apasionado por automatización, seguridad informática y optimización de procesos empresariales.
 
 ## Experiencia +10 años
 
