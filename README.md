@@ -21,6 +21,27 @@
 │    └── Ansible - OpenShift - VMWare - Aginity - Toad - Jira - Control-M
 └── Gestión de Correos y llamadas a las entidades Bancarias de España, y marcas como MasterCard, VISA, Amex, Dinners entre otras en Europa y America 
 ```
+## 🛠️ Skills Destacadas
+
+- Active Directory, GPO y administración de políticas corporativas  
+- Windows Server: DHCP, DNS, servidor de archivos, NTFS y cuotas  
+- Virtualización con **Proxmox VE**  
+- Automatización con **PowerShell** y scripts en Linux/Unix  
+- Seguridad y auditoría de sistemas (Sysmon, logs, simulación de ataques)  
+- Administración de **Z/OS, JCL y Control-M**  
+- Linux / Unix: administración de servidores y servicios críticos  
+- Herramientas de monitorización: **Dynatrace, Grafana, Kibana, Elastic Search**  
+- Gestión de redes, unidades de red y redirección de carpetas  
+- Buenas prácticas IT: mínimo privilegio, segmentación y control de accesos
+
+---
+
+## 🚀 Perfil resumido
+
+**Sysadmin & IT Security Enthusiast | Active Directory, GPO, Windows Server, Virtualización (Proxmox) y Automatización con PowerShell | Seguridad y Auditoría de Entornos Empresariales**
+
+---
+
 
 ## 🌐 Socials:      **Amante de la** 📷
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcphotochile/) [![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=Twitter&logoColor=white)](https://twitter.com/jcsuarez73) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jcfotografiaes)
