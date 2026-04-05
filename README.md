@@ -36,7 +36,7 @@ Sysadmin y especialista en **Windows, Linux/Unix, Z/OS y herramientas de monitor
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Control-M](https://img.shields.io/badge/Control--M-0078D7?style=for-the-badge)
 
-**Actualmente estudiante de Master en IA naplicada:** 
+**Actualmente estudiante de Master en IA Aplicada:** 
 
 ![OpenAI](assets/openai.png)
 ![Anthropic](assets/anthropic1.png)
