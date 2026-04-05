@@ -7,7 +7,7 @@
 
 ## Experiencia +10 años
 
-```bash
+```shell
 ├── 🖥 Tecnología
 │   └── 🏢 CPD                 # SysAdmin y Operador de CPD
 ├── 🖧 Sistemas Operativos
