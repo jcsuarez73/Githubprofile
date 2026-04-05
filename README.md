@@ -3,9 +3,6 @@
 ### 👔 Últimos trabajos
 - **[Redsys](https://redsys.es)** — Dic 2022 hasta Actualmente
 
----
-
-### ✨ Sobre mí
 Sysadmin y especialista en **Windows, Linux/Unix, Z/OS y herramientas de monitorización**. Apasionado por automatización, seguridad informática y optimización de procesos empresariales.
 
 ## Experiencia +10 años
@@ -38,6 +35,15 @@ Sysadmin y especialista en **Windows, Linux/Unix, Z/OS y herramientas de monitor
 ![Toad](https://img.shields.io/badge/Toad-FF6600?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Control-M](https://img.shields.io/badge/Control--M-0078D7?style=for-the-badge)
+
+**Actualmente estudiante de Master en IA naplicada:** 
+![OpenAI](assets/openai.png)
+![Anthropic](assets/anthropic1.png)
+![DeepSeek](assets/deepseek.png)
+![Cohere](assets/cohere.png)
+![Z.ai](assets/zai.png)
+![Ollama](assets/ollama1.png)
+
 
 ## 📞 Gestión de Correos y llamadas
 Gestión de correos y llamadas a bancos y marcas como MasterCard, VISA, Amex, Diners en Europa y América
