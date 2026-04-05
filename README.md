@@ -37,6 +37,7 @@ Sysadmin y especialista en **Windows, Linux/Unix, Z/OS y herramientas de monitor
 ![Control-M](https://img.shields.io/badge/Control--M-0078D7?style=for-the-badge)
 
 **Actualmente estudiante de Master en IA naplicada:** 
+
 ![OpenAI](assets/openai.png)
 ![Anthropic](assets/anthropic1.png)
 ![DeepSeek](assets/deepseek.png)
