@@ -38,12 +38,10 @@ Sysadmin y especialista en **Windows, Linux/Unix, Z/OS y herramientas de monitor
 
 **Actualmente estudiante de Master en IA Aplicada:** 
 
-![OpenAI](assets/openai.png)
-![Anthropic](assets/anthropic1.png)
-![DeepSeek](assets/deepseek.png)
-![Cohere](assets/cohere.png)
-![Z.ai](assets/zai.png)
-![Ollama](assets/ollama1.png)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-756253?style=for-the-badge)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 
 ## 📞 Gestión de Correos y llamadas
