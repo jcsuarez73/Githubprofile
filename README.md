@@ -44,17 +44,28 @@
 
 ## 💼 Últimos trabajos
 
-🔸 **Redsys Servicios de Procesamiento S.L.** Años 2022 - Actual 
-> Operación y monitorización de Sistemas críticos en el sector de medios de pago, garantizando alta disponibilidad y cumplimiento de SLA.  
-> Gestión de incidencias, coordinación con múltiples equipos y mejora continua en entornos distribuidos.  
-> ⚙️ Tech: Dynatrace | IBM z/OS | Unix/Linux | OpenShift | Ansible | Elastic/Kibana | Control-M | VMware  
+### 🚀 Redsys Servicios de Procesamiento S.L.  
+📍 Madrid, España | 🗓️ 2022 - Actual  
 
-🔸 **Avícola La Guásima** Años 2001-2006 
-www.agrosys.com.br **Integrador de Sistemas ERP - Coodinador de Proyecto**
-> Coordinación e implementación de ERP (Agrosys) integrando múltiples áreas del negocio: producción, logística, ventas y finanzas.  
-> Soporte a usuarios, QA de sistemas y adaptación de soluciones (incluyendo traducción técnica).  
-> ⚙️ Tech: Linux Red Hat | Windows Server | Progress 4GL | C# | IIS | Unix SCO  
+> ⚡ Operación de sistemas críticos en el sector de medios de pago  
+> 📊 Alta disponibilidad, cumplimiento de SLA y gestión de incidencias complejas  
+> 🤝 Coordinación con múltiples equipos y mejora continua de servicios  
 
+**🛠️ Stack:**  
+`Dynatrace` `IBM z/OS` `Linux/Unix` `OpenShift` `Ansible` `Elastic/Kibana` `Control-M` `VMware`
+
+---
+
+### 🧩 Avícola La Guásima  
+📍 Venezuela | 🗓️ 2001 - 2006  
+🔗 http://www.agrosys.com.br  
+
+> ⚙️ Implementación e integración de ERP (Agrosys) en múltiples áreas del negocio  
+> 🏭 Producción, logística, ventas y finanzas completamente conectadas  
+> 👨‍💻 Soporte a usuarios, QA de sistemas y adaptación técnica  
+
+**🛠️ Stack:**  
+`Linux Red Hat` `Windows Server` `Progress 4GL` `C#` `IIS` `Unix SCO`
 ## 📞 Gestión de Correos y llamadas
 Gestión de correos y llamadas a bancos y marcas como MasterCard, VISA, Amex, Diners en Europa y América
 
