@@ -1,14 +1,24 @@
 <h1 align="center">Hola 👋, Soy Juan Carlos Suárez</h1>
 <h3 align="center">Systems Operations | DevOps | Platform Enthusiast</h3>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Systems+Operations+Engineer;DevOps+%7C+Automation+%7C+Cloud;Monitoring+%26+Observability+Expert;Always+learning+new+technologies" 
-      alt="Typing SVG" 
-    />
-  </a>
-</p>
+## Experiencia +10 años
+
+## 🧠 Focus Areas
+
+### ⚙️ Platform & Systems Operations
+- High availability systems (24/7)
+- Incident & problem management
+- Monitoring & observability
+
+### 🚀 DevOps & Automation
+- Infrastructure automation
+- Process optimization
+- System reliability engineering practices
+
+## 🖧 Sistemas Operativos
+- 🐧 Linux — WAS, WEB, Liberty Profile, WebSphere, JBOSS, Systemd, Terminal y FileSystem  
+  - Distribuciones: RedHat, CentOS, Debian, AIX
+- 🪟 Windows / 🖥 Z/OS / UNIX / Windows Server 2019 — AD, DC, LDAP
 
 ## 💼 Últimos trabajos
 
@@ -51,28 +61,7 @@
 ![CSharp](https://img.shields.io/badge/-C%23-239120?logo=csharp)
 ![IIS](https://img.shields.io/badge/-IIS-0078D7?logo=microsoft)
 
-## 🚀 Perfil resumido
-
-**Sysadmin & IT Security Enthusiast | Active Directory, GPO, Windows Server, Virtualización (Proxmox) y Automatización con PowerShell | Seguridad y Auditoría de Entornos Empresariales**
-
-## Experiencia +10 años
-
-## 🧠 Focus Areas
-
-### ⚙️ Platform & Systems Operations
-- High availability systems (24/7)
-- Incident & problem management
-- Monitoring & observability
-
-### 🚀 DevOps & Automation
-- Infrastructure automation
-- Process optimization
-- System reliability engineering practices
-
-## 🖧 Sistemas Operativos
-- 🐧 Linux — WAS, WEB, Liberty Profile, WebSphere, JBOSS, Systemd, Terminal y FileSystem  
-  - Distribuciones: RedHat, CentOS, Debian, AIX
-- 🪟 Windows / 🖥 Z/OS / UNIX / Windows Server 2019 — AD, DC, LDAP
+## 🚀 
 
 ## 📊 Herramientas de Monitoreo
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-0D7ECF?style=for-the-badge&logo=dynatrace&logoColor=white)
