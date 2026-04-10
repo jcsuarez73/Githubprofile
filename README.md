@@ -1,4 +1,14 @@
-# 💻 Acerca de mí: **Juan Carlos Suarez**
+<h1 align="center">Hi 👋, I'm Juan Carlos Suárez</h1>
+<h3 align="center">Systems Operations | DevOps | Platform Enthusiast</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Systems+Operations+Engineer;DevOps+%7C+Automation+%7C+Cloud;Monitoring+%26+Observability+Expert;Always+learning+new+technologies" 
+      alt="Typing SVG" 
+    />
+  </a>
+</p>
 
 ## 💼 Últimos trabajos
 
