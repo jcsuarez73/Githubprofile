@@ -25,8 +25,8 @@
 ---
 
 ### 🧩 Avícola La Guásima
-![Role](https://img.shields.io/badge/role-ERP%30Integration-blue)
-![Focus](https://img.shields.io/badge/focus-Business%30Systems-important)
+![Role](https://img.shields.io/badge/role-ERP%20Integration-blue)
+![Focus](https://img.shields.io/badge/focus-Business%20Systems-important)
 
 📍 Venezuela &nbsp;|&nbsp; 🗓️ 2001 - 2006  
 🔗 http://www.agrosys.com.br  
