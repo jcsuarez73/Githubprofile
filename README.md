@@ -64,6 +64,14 @@
   - Distribuciones: RedHat, CentOS, Debian, AIX
 - 🪟 Windows / 🖥 Z/OS / UNIX / Windows Server 2019 — AD, DC, LDAP
 
+## 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,ansible,git,github,aws,nginx,redis,mongodb" />
+
+</p>
+
 ## 📊 Herramientas de Monitoreo
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-0D7ECF?style=for-the-badge&logo=dynatrace&logoColor=white)
 ![Tivoli](https://img.shields.io/badge/Tivoli-0066CC?style=for-the-badge)
