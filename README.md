@@ -42,6 +42,18 @@
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
+## 💼 Últimos trabajos
+
+🔸 **Redsys Servicios de Procesamiento S.L.** Años 2022 - Actual 
+> Operación y monitorización de Sistemas críticos en el sector de medios de pago, garantizando alta disponibilidad y cumplimiento de SLA.  
+> Gestión de incidencias, coordinación con múltiples equipos y mejora continua en entornos distribuidos.  
+> ⚙️ Tech: Dynatrace | IBM z/OS | Unix/Linux | OpenShift | Ansible | Elastic/Kibana | Control-M | VMware  
+
+🔸 **Avícola La Guásima** Años 2001-2006 
+www.agrosys.com.br **Integrador de Sistemas ERP - Coodinador de Proyecto**
+> Coordinación e implementación de ERP (Agrosys) integrando múltiples áreas del negocio: producción, logística, ventas y finanzas.  
+> Soporte a usuarios, QA de sistemas y adaptación de soluciones (incluyendo traducción técnica).  
+> ⚙️ Tech: Linux Red Hat | Windows Server | Progress 4GL | C# | IIS | Unix SCO  
 
 ## 📞 Gestión de Correos y llamadas
 Gestión de correos y llamadas a bancos y marcas como MasterCard, VISA, Amex, Diners en Europa y América
