@@ -1,47 +1,5 @@
 # 💻 Acerca de mí: **Juan Carlos Suarez**
 
-### 👔 Últimos trabajos
-- **[Redsys](https://redsys.es)** — Dic 2022 hasta Actualmente
-
-## 🚀 Perfil resumido
-
-**Sysadmin & IT Security Enthusiast | Active Directory, GPO, Windows Server, Virtualización (Proxmox) y Automatización con PowerShell | Seguridad y Auditoría de Entornos Empresariales**
-
-## Experiencia +10 años
-
-- 🏢 CPD — SysAdmin y Operador de CPD
-
-## 🖧 Sistemas Operativos
-- 🐧 Linux — WAS, WEB, Liberty Profile, WebSphere, JBOSS, Systemd, Terminal y FileSystem  
-  - Distribuciones: RedHat, CentOS, Debian, AIX
-- 🪟 Windows / 🖥 Z/OS / UNIX / Windows Server 2019 — AD, DC, LDAP
-
-## 📊 Herramientas de Monitoreo
-![Dynatrace](https://img.shields.io/badge/Dynatrace-0D7ECF?style=for-the-badge&logo=dynatrace&logoColor=white)
-![Tivoli](https://img.shields.io/badge/Tivoli-0066CC?style=for-the-badge)
-![WhatsUp Gold](https://img.shields.io/badge/WhatsUp_Gold-FFCC00?style=for-the-badge)
-![Elastic Search](https://img.shields.io/badge/Elastic%20Search-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-F47711?style=for-the-badge&logo=kibana&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-0C4B99?style=for-the-badge&logo=prisma&logoColor=white)
-![Stratus](https://img.shields.io/badge/Stratus-FF6600?style=for-the-badge)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-FF5500?style=for-the-badge&logo=servicenow&logoColor=white)
-
-## ⚙️ Herramientas de Gestión (DEVOPS)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=openshift&logoColor=white)
-![VMWare](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Aginity](https://img.shields.io/badge/Aginity-0078D7?style=for-the-badge)
-![Toad](https://img.shields.io/badge/Toad-FF6600?style=for-the-badge)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Control-M](https://img.shields.io/badge/Control--M-0078D7?style=for-the-badge)
-
-## ⚙️ Estudiando Master de IA Aplicada (Devops) 
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-756253?style=for-the-badge)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-
 ## 💼 Últimos trabajos
 
 ### 🚀 Redsys Servicios de Procesamiento S.L.
@@ -82,6 +40,46 @@
 ![Windows](https://img.shields.io/badge/-Windows%20Server-0078D6?logo=windows)
 ![CSharp](https://img.shields.io/badge/-C%23-239120?logo=csharp)
 ![IIS](https://img.shields.io/badge/-IIS-0078D7?logo=microsoft)
+
+## 🚀 Perfil resumido
+
+**Sysadmin & IT Security Enthusiast | Active Directory, GPO, Windows Server, Virtualización (Proxmox) y Automatización con PowerShell | Seguridad y Auditoría de Entornos Empresariales**
+
+## Experiencia +10 años
+
+- 🏢 CPD — SysAdmin y Operador de CPD
+
+## 🖧 Sistemas Operativos
+- 🐧 Linux — WAS, WEB, Liberty Profile, WebSphere, JBOSS, Systemd, Terminal y FileSystem  
+  - Distribuciones: RedHat, CentOS, Debian, AIX
+- 🪟 Windows / 🖥 Z/OS / UNIX / Windows Server 2019 — AD, DC, LDAP
+
+## 📊 Herramientas de Monitoreo
+![Dynatrace](https://img.shields.io/badge/Dynatrace-0D7ECF?style=for-the-badge&logo=dynatrace&logoColor=white)
+![Tivoli](https://img.shields.io/badge/Tivoli-0066CC?style=for-the-badge)
+![WhatsUp Gold](https://img.shields.io/badge/WhatsUp_Gold-FFCC00?style=for-the-badge)
+![Elastic Search](https://img.shields.io/badge/Elastic%20Search-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-F47711?style=for-the-badge&logo=kibana&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-0C4B99?style=for-the-badge&logo=prisma&logoColor=white)
+![Stratus](https://img.shields.io/badge/Stratus-FF6600?style=for-the-badge)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-FF5500?style=for-the-badge&logo=servicenow&logoColor=white)
+
+## ⚙️ Herramientas de Gestión (DEVOPS)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=openshift&logoColor=white)
+![VMWare](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Aginity](https://img.shields.io/badge/Aginity-0078D7?style=for-the-badge)
+![Toad](https://img.shields.io/badge/Toad-FF6600?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Control-M](https://img.shields.io/badge/Control--M-0078D7?style=for-the-badge)
+
+## ⚙️ Estudiando Master de IA Aplicada (Devops) 
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-756253?style=for-the-badge)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
 
 ## 📞 Gestión de Correos y llamadas
 Gestión de correos y llamadas a bancos y marcas como MasterCard, VISA, Amex, Diners en Europa y América
