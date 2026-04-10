@@ -6,10 +6,16 @@
 ## 🧠 Focus Areas
 
 ### ⚙️ Platform & Systems Operations
-`High availability systems (24/7)` `Incident & problem management` `Monitoring & observability`
+> Operation and reliability of **high-availability (24/7) distributed systems**, ensuring service stability in critical environments.
+
+`Incident & Problem Management` · `SLA Compliance` · `Monitoring & Observability` · `Root Cause Analysis`
+
+---
 
 ### 🚀 DevOps & Automation
-`Infrastructure automation` `Process optimization` `System reliability engineering practices`
+> Focused on improving **system efficiency and operational resilience** through automation and process optimization.
+
+`Infrastructure Automation` · `Process Optimization` · `Reliability Engineering (SRE practices)` · `Operational Efficiency`
 
 ## 🖧 Sistemas Operativos
 - 🐧 Linux — WAS, WEB, Liberty Profile, WebSphere, JBOSS, Systemd, Terminal y FileSystem  
