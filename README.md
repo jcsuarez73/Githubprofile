@@ -64,12 +64,11 @@
   - Distribuciones: RedHat, CentOS, Debian, AIX
 - 🪟 Windows / 🖥 Z/OS / UNIX / Windows Server 2019 — AD, DC, LDAP
 
-## 🚀 Tech Stack
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,ansible,git,github,aws,nginx,redis,mongodb" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=jcsuarez73&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcsuarez73&layout=compact&theme=tokyonight" />
 </p>
 
 ## 📊 Herramientas de Monitoreo
