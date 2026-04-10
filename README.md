@@ -1,7 +1,5 @@
-<h1 align="center">Hola 👋, Soy Juan Carlos Suárez</h1>
-<h3 align="center">Systems Operations | DevOps | Platform Enthusiast</h3>
+<h1 left="center">Hola 👋, Soy Juan Carlos Suárez</h1>
 
-## Experiencia +10 años
 
 ## 🧠 Focus Areas
 
