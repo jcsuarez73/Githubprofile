@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Carlos Suárez</h1>
+<h1 align="center">Hola 👋, Soy Juan Carlos Suárez</h1>
 <h3 align="center">Systems Operations | DevOps | Platform Enthusiast</h3>
 
 <p align="center">
