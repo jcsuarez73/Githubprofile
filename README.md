@@ -57,19 +57,22 @@
 
 ## Experiencia +10 años
 
-- 🏢 CPD — SysAdmin y Operador de CPD
+## 🧠 Focus Areas
+
+### ⚙️ Platform & Systems Operations
+- High availability systems (24/7)
+- Incident & problem management
+- Monitoring & observability
+
+### 🚀 DevOps & Automation
+- Infrastructure automation
+- Process optimization
+- System reliability engineering practices
 
 ## 🖧 Sistemas Operativos
 - 🐧 Linux — WAS, WEB, Liberty Profile, WebSphere, JBOSS, Systemd, Terminal y FileSystem  
   - Distribuciones: RedHat, CentOS, Debian, AIX
 - 🪟 Windows / 🖥 Z/OS / UNIX / Windows Server 2019 — AD, DC, LDAP
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jcsuarez73&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcsuarez73&layout=compact&theme=tokyonight" />
-</p>
 
 ## 📊 Herramientas de Monitoreo
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-0D7ECF?style=for-the-badge&logo=dynatrace&logoColor=white)
