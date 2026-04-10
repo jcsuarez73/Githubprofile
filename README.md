@@ -44,28 +44,45 @@
 
 ## 💼 Últimos trabajos
 
-### 🚀 Redsys Servicios de Procesamiento S.L.  
-📍 Madrid, España | 🗓️ 2022 - Actual  
+### 🚀 Redsys Servicios de Procesamiento S.L.
+![Status](https://img.shields.io/badge/status-active-success) 
+![Role](https://img.shields.io/badge/role-Systems%20Operations-blue)
+![Env](https://img.shields.io/badge/env-Critical%20Systems-red)
 
-> ⚡ Operación de sistemas críticos en el sector de medios de pago  
-> 📊 Alta disponibilidad, cumplimiento de SLA y gestión de incidencias complejas  
-> 🤝 Coordinación con múltiples equipos y mejora continua de servicios  
+📍 Madrid, España &nbsp;|&nbsp; 🗓️ 2022 - Actual  
 
-**🛠️ Stack:**  
-`Dynatrace` `IBM z/OS` `Linux/Unix` `OpenShift` `Ansible` `Elastic/Kibana` `Control-M` `VMware`
+> 💳 Operación de plataformas de **medios de pago 24/7**  
+> ⚡ Alta disponibilidad y cumplimiento estricto de SLA  
+> 🔍 Monitorización, gestión de incidencias y mejora continua  
+> 🤝 Coordinación con equipos técnicos en entornos distribuidos  
+
+**🧰 Tech Stack**  
+![Dynatrace](https://img.shields.io/badge/-Dynatrace-000?logo=dynatrace)
+![Linux](https://img.shields.io/badge/-Linux-black?logo=linux)
+![OpenShift](https://img.shields.io/badge/-OpenShift-red?logo=redhatopenshift)
+![Ansible](https://img.shields.io/badge/-Ansible-black?logo=ansible)
+![Elastic](https://img.shields.io/badge/-Elastic-005571?logo=elasticsearch)
+![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware)
 
 ---
 
-### 🧩 Avícola La Guásima  
-📍 Venezuela | 🗓️ 2001 - 2006  
+### 🧩 Avícola La Guásima
+![Role](https://img.shields.io/badge/role-ERP%20Integration-blue)
+![Focus](https://img.shields.io/badge/focus-Business%20Systems-important)
+
+📍 Venezuela &nbsp;|&nbsp; 🗓️ 2001 - 2006  
 🔗 http://www.agrosys.com.br  
 
-> ⚙️ Implementación e integración de ERP (Agrosys) en múltiples áreas del negocio  
-> 🏭 Producción, logística, ventas y finanzas completamente conectadas  
-> 👨‍💻 Soporte a usuarios, QA de sistemas y adaptación técnica  
+> ⚙️ Implementación e integración de **ERP Agrosys**  
+> 🏭 Digitalización de procesos: producción, logística, ventas y finanzas  
+> 👨‍💻 Soporte a usuarios, QA y adaptación técnica de sistemas  
 
-**🛠️ Stack:**  
-`Linux Red Hat` `Windows Server` `Progress 4GL` `C#` `IIS` `Unix SCO`
+**🧰 Tech Stack**  
+![Linux](https://img.shields.io/badge/-RedHat-E00?logo=redhat)
+![Windows](https://img.shields.io/badge/-Windows%20Server-0078D6?logo=windows)
+![CSharp](https://img.shields.io/badge/-C%23-239120?logo=csharp)
+![IIS](https://img.shields.io/badge/-IIS-0078D7?logo=microsoft)
+
 ## 📞 Gestión de Correos y llamadas
 Gestión de correos y llamadas a bancos y marcas como MasterCard, VISA, Amex, Diners en Europa y América
 
